@@ -57,6 +57,8 @@ Add title of changes and description
   
 ## 😄 Tribute to all the contributors ❤️
 
+<a href= "https://jmdinela.github.io/WebDev/tributeforcontributer.html">See here</a>
+
 note: <i>=It will take a few days to update your profile here</i>
 <a href="https://github.com/jmdinela/WebDev/graphs/contributors">
 </a>
