@@ -4,8 +4,10 @@
   <p align="center">
   <a><img src="https://i.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.webp" alt="image" width="500"></a>
 <br>
-##Hacktoberfest Open Source Project
-https://hacktoberfest.com/
+
+## Hacktoberfest Open Source Project
+
+This project is for hacktoberfest to encourage new developer and open source developers to contribute to open source and improve skills which require debugging, write testable code, industry standards, problem solving and many more, https://hacktoberfest.com/
   
 # 🐱‍💻 WebDev
 
@@ -52,9 +54,9 @@ Add title of changes and description
   <br>
   
   
-#  Table of Contents
-- [Project 01: HTML and CSS Epic Login Form](https://github.com/letdummy/Simple-to-Advance/tree/master/01.%20HTML%20and%20CSS%20Epic%20Login%20Form)
+## Table of Contents
 
+<details><ul>Project 1 </></details>
   
   
 ## 😄 Tribute to all the contributors ❤️
